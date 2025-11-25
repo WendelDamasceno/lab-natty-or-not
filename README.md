@@ -20,33 +20,36 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-#Nebula Stories – Aesthetic AI Experience
+#Sabores do Amanhã – Aesthetic AI Restaurant Experience
 
 📒 Descrição
 
-Um projeto que transforma ideias soltas em narrativas curtas com visual minimalista e vibração futurista, criando uma experiência estética que mistura texto, arte e interação.
+Um projeto criativo que simula a identidade visual, o cardápio e a comunicação digital de um restaurante moderno usando apenas ferramentas de IA. A ideia foi criar um ambiente gastronômico completo — conceito, pratos, descrições e estética — tudo com uma pegada clean, elegante e extremamente aesthetic.
 
 🤖 Tecnologias Utilizadas
 
-ChatGPT para geração de texto
+ChatGPT para criação dos textos, cardápios e nomes de pratos
 
-Midjourney para imagens
+DALL·E / Midjourney para gerar imagens dos pratos e da identidade visual
 
-Runway para pequenos vídeos
+Canva para montagem dos materiais promocionais
 
-Canva para montagem final
+Google Fonts para definição da tipografia do restaurante
 
 🧐 Processo de Criação
 
-Comecei rascunhando alguns conceitos-chave e deixei a IA expandi-los em diferentes estilos. Ajustei tons, cores e temas até chegar a algo elegante e coeso. Depois, integrei texto e imagem para manter a estética uniforme.
+Comecei definindo o conceito do restaurante: cozinha contemporânea com toque artesanal.
+A partir disso, gerei nomes criativos para os pratos, descrições gourmet e imagens realistas das receitas.
+Depois, uni tudo em materiais de divulgação, como cardápio, postagens para redes sociais e banners — sempre mantendo um padrão visual suave, minimalista e sofisticado.
 
 🚀 Resultados
 
-O projeto resultou em uma sequência de micro-histórias acompanhadas de artes conceptuais com atmosfera suave e neon, entregando algo visual e narrativamente envolvente.
+O projeto final entregou um cardápio completo, identidade visual consistente e várias artes promocionais.
+Tudo ficou com a vibe moderna e elegante que um restaurante premium teria — e totalmente criado com IA.
 
 💭 Reflexão (Opcional)
 
-Criar algo “natty” com IA é curioso — a linha entre natural e artificial é tênue, mas aprender a direcionar bem a ferramenta faz tudo fluir.
+Criar algo “natty” com IA é desafiador, porque você precisa orientar bem o estilo para não parecer artificial demais. Mas quando encontra o equilíbrio, o resultado fica surpreendentemente natural e convincente.
 ```
 
 ### Exemplos e Insigths
