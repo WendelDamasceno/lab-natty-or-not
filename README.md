@@ -20,22 +20,33 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#Nebula Stories – Aesthetic AI Experience
 
-## 📒 Descrição
-Breve descrição do seu projeto
+📒 Descrição
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Um projeto que transforma ideias soltas em narrativas curtas com visual minimalista e vibração futurista, criando uma experiência estética que mistura texto, arte e interação.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🤖 Tecnologias Utilizadas
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+ChatGPT para geração de texto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Midjourney para imagens
+
+Runway para pequenos vídeos
+
+Canva para montagem final
+
+🧐 Processo de Criação
+
+Comecei rascunhando alguns conceitos-chave e deixei a IA expandi-los em diferentes estilos. Ajustei tons, cores e temas até chegar a algo elegante e coeso. Depois, integrei texto e imagem para manter a estética uniforme.
+
+🚀 Resultados
+
+O projeto resultou em uma sequência de micro-histórias acompanhadas de artes conceptuais com atmosfera suave e neon, entregando algo visual e narrativamente envolvente.
+
+💭 Reflexão (Opcional)
+
+Criar algo “natty” com IA é curioso — a linha entre natural e artificial é tênue, mas aprender a direcionar bem a ferramenta faz tudo fluir.
 ```
 
 ### Exemplos e Insigths
